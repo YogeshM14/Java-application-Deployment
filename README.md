@@ -48,7 +48,7 @@ Step 14: Now compile and run the Java application
 Step 15 : Add the port number of Java application which given in the application properties (default 8080) to the security groups of the server
 ![Screenshot (37)](https://github.com/user-attachments/assets/bcc77177-6aa8-460d-b1d6-e62db2001bae)
 
-Step 16: Copy and paste the public ip address in the website along with port number (public ip:8080)
+Step 16: Copy and paste the public ip address in the browser along with port number (public ip:8080)
 ![Screenshot (38)](https://github.com/user-attachments/assets/9ce7a300-12b1-41c0-b4b6-0b4de69ab2cd)
 
 
