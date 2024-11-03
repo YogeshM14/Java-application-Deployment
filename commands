@@ -1,0 +1,19 @@
+sudo apt update
+
+sudo apt install mysql-client
+
+sudo apt install mysql-server
+
+sudo apt install maven
+
+mvn clean install
+
+java -jar target/easy-notes-1.0.0.jar
+
+ nano src/main/resources/application.properties
+
+ ctrl+s
+
+ ctrl+X
+
+sudo apt install openjdk-8-jdk
